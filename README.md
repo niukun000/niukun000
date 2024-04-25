@@ -8,8 +8,10 @@ Heres where I publish my collection of random python projects. Theres a good var
 ## 🚀 Skills and Technologies
 
 #### Frontend:
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-ff33fc.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Static Badge](https://img.shields.io/badge/swift-F7DF1E.svg?style=for-the-badge&logo=swift)
+
 
 #### DevOps:
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=green)
@@ -30,13 +32,13 @@ Heres where I publish my collection of random python projects. Theres a good var
 ![Linux](https://img.shields.io/badge/Linux-E95420?style=for-the-badge&logo=linux&logoColor=white)
 
 ## 💼 Work Experience
-- Super Geo AI: AI Intern.
+- Super Geo AI: May 2023 - Apr 2024.
 
 ## 🏫 Education:
 - U of S:  BSc in computer science.
 
 ## 🌱 Projects
-Here are some of my notable projects:
+Here are some of my notable projects: TODO
 
 
 
