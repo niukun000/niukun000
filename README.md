@@ -3,7 +3,7 @@
 Heres where I publish my collection of random python projects. Theres a good varity, so hopfuly you find something you like. 
 
 
-<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=caipo&show_icons=true&locale=en&theme=tokyonight" alt="niukun" /></p>
+<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=niukun000&show_icons=true&locale=en&theme=tokyonight" alt="niukun" /></p>
 
 ## 🚀 Skills and Technologies
 
